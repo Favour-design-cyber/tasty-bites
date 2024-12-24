@@ -128,10 +128,7 @@ const FoodAppPage = () => {
                   From sizzling burgers and cheesy pizzas to healthy salads and
                   <br />
                   hearty pasta bowls, our menu is packed with options to satisfy
-                  <br />
-                  every craving. Whether you're dining solo, with family, or
-                  <br />
-                  hosting a party – we have something for everyone! <br />
+                 
                 </Paragraph>
               </Card>
             </Col>
@@ -139,10 +136,8 @@ const FoodAppPage = () => {
               <Card title={<CursorHelp>Fast Delivery</CursorHelp>} hoverable>
                 <Paragraph>
                   Get your food hot and fresh in no time. <br />
-                  We know you're hungry, and we don’t keep you waiting. <br />
-                  Ourdelivery service is fast, efficient, and ensures your food <br />
-                  arrives piping hot and ready to enjoy. Delicious meals, <br />
-                  delivered right to your doorstep.
+                  We know you're hungry, and we don’t keep you waiting. 
+               
                 </Paragraph>
               </Card>
             </Col>
@@ -151,12 +146,7 @@ const FoodAppPage = () => {
                 <Paragraph>
                   Ordering your favorite dishes has never been easier. With just
                   <br />
-                  a few clicks, you can place an order through our website or
-                  <br />
-                  app. Our intuitive system makes it simple to customize your
-                  <br />
-                  meal, track your delivery, and enjoy your food in no time.
-                  <br />
+                  a few clicks, you can place an order through our website or  app. 
                 </Paragraph>
               </Card>
             </Col>
@@ -223,7 +213,7 @@ const FoodAppPage = () => {
         </ContentSection>
       </StyledContent>
       <StyledFooter>
-        ©2023 Tasty Bites App. All rights reserved. created by{" "}
+        ©2022 Tasty Bites App. All rights reserved. created by{" "}
         <a href="https://www.linkedin.com/in/favour-oluwadamilare-a66181258/">
           Favour Oluwadamilare
         </a>
